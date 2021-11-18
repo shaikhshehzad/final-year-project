@@ -1,0 +1,15 @@
+{
+    "name": "name",
+    "gender" : "gender" , 
+    "age" : "age" ,
+    "mobilenumber" : "mobilenumber" ,
+    "address" : "address" ,
+    "tentativedate" :  "tentativedate"  ,
+    "category" : "category" ,
+    "state"  : "state",
+    "districtorcity" : "districtorcity" ,
+    "bloodbankname" : "bloodbankname" ,
+    "bloodgroup" : "bloodgroup" ,
+    "identity" : "identity" ,
+    "identitykey" : "identitykey"
+}

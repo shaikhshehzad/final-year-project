@@ -1,0 +1,16 @@
+{
+    "state" : "state" ,
+    "address" : "address" ,
+    "city" : "city" ,
+    "bloodbankname" : "bloodbankname" ,
+    "parenthospitalname" : "parenthospitalname"  ,
+    "shortname" : "shortname" ,
+    "contactnumber" : "contactnumber",
+    "category" : "category" ,
+    "contactperson" : "contactperson" ,
+    "email" : "email" ,
+    "contactname" : "contactname" ,
+    "faxnumber" : "faxnumber" ,
+    "licensenumber" : "licensenumber" ,
+    "helplinenumber" : "helplinenumber"
+}

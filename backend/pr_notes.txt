@@ -1,0 +1,30 @@
+// npm init 
+// then dependencies 
+// import the required packages in app.js 
+// const app = express()
+
+// in controllers folder we import the model and export the functionality
+
+
+// we need to import the controllers in index.js files in the routes folder as well 
+after  // import the controllers // we need to declare the routes and we need to bind to the method
+
+// the method name we are exporting from the controllers should be imported with the same name of the routes
+
+// restId = bankId
+
+
+// cuisine  = supplies
+
+bloodtype_id  = mealtype_id
+
+
+
+eraktkosh
+Bank
+BloodType
+User
+location
+
+
+// for payments  -- > fe will inform the zomato be --> on recieving bE will send secret info to fe -- >> again fe will and go to payytm system  --->>on paytm systrem user will make a payment from many available sytem .. - >> paytm system will inform zomato be through payment callback
