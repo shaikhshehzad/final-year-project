@@ -1,0 +1,10 @@
+{
+            "email" : "email" ,
+            "name" : "name",
+            "reason": "reason",
+            "state": "state",
+            "district" :"district",
+            "pincode" :"pincode",
+            "description" : "description"
+
+}

@@ -10,6 +10,8 @@ const router = express.Router();
  const paymentController = require('../Controllers/Payments')
  const newbankController = require('../Controllers/Newbanks')
  const odrController = require('../Controllers/Odr')
+ const contactController = require('../Controllers/Contact')
+
  // declare the routes and bind to the controller methodss
  router.get('/getAllBanks', banksController.getAllBanks);
  router.get('/getAllBanksByLocation/:cityName', banksController.getAllBanksByLocation);
@@ -28,6 +30,8 @@ router.post('/banksignup',newbankController.banksignup )
 // online donation requests  signup 
 
 router.post('/odr',odrController.odrsignup)
+// Contact Us request 
+router.post('/contactus' ,contactController.contactrequest )
 
 // payments 
 router.get('/payments' , paymentController.payments);
